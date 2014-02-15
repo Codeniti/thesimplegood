@@ -1,0 +1,14 @@
+<resources>
+     <color name="white">#ffffffff</color>
+     <color name="red">#da1111</color>
+     <color name="lightgray">#e7e7e7</color>
+     <color name="lightgray02">#bfbfbf</color>
+     <color name="orrange">#e33d1b</color>
+     <color name="gray">#dfdfdf</color>
+     <color name="dark_gray">#ababab</color>
+     <color name="app_red">#CC0000</color>
+     <color name="black">#ff000000</color>
+     
+     <color name="static_text_color">#003366</color>
+     
+</resources>
